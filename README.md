@@ -29,15 +29,15 @@ API for external integrations.
 
 ### Sending and scheduling SMS
 
-![SMS form with scheduling and an optional chart link](screenshots/send-sms.png)
+![SMS form with scheduling and an optional chart link](screenshots/app3.png)
 
 ### SMS statistics
 
-![SMS statistics and recent activity](screenshots/sms-statistics.png)
+![SMS statistics and recent activity](screenshots/app2.png)
 
 ### API documentation
 
-![Nexosend API documentation showing an SMS endpoint](screenshots/api-documentation.png)
+![Nexosend API documentation showing an SMS endpoint](screenshots/app5.png)
 
 ## How SMS processing works
 
