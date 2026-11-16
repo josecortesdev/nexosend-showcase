@@ -37,7 +37,7 @@ API for external integrations.
 
 ### Sharing charts
 
-![Shared revenue chart with link management controls](screenshots/chart-form.png)
+![Shared revenue chart with link management controls](screenshots/app-chart.png)
 
 ### API documentation
 
