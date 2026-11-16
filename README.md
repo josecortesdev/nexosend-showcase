@@ -35,6 +35,10 @@ API for external integrations.
 
 ![SMS statistics and recent activity](screenshots/app2.png)
 
+### Sharing charts
+
+![Shared revenue chart with link management controls](screenshots/chart-form.png)
+
 ### API documentation
 
 ![Nexosend API documentation showing an SMS endpoint](screenshots/app5.png)
