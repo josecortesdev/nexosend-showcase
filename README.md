@@ -12,6 +12,13 @@ API for external integrations.
 **[Visit Nexosend](https://nexosend.com)** ·
 **[Explore the API documentation](https://nexosend.com/api-docs)**
 
+## Product demo
+
+See how Nexosend handles SMS sending, scheduling, contacts, analytics,
+shareable charts and API access.
+
+https://github.com/user-attachments/assets/cf010866-13cd-4e65-9393-9ff78bd8e9b5
+
 ## What it does
 
 - **Send SMS:** send a message to one or multiple recipients, with a separate
