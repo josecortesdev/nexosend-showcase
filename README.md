@@ -14,10 +14,15 @@ API for external integrations.
 
 ## Product demo
 
-See how Nexosend handles SMS sending, scheduling, contacts, analytics,
-shareable charts and API access.
+In this 3-minute demo, I schedule an SMS with a link to a chart, track each recipient’s message status, and submit an SMS request through the REST API.
 
-https://github.com/user-attachments/assets/cf010866-13cd-4e65-9393-9ff78bd8e9b5
+
+
+https://github.com/user-attachments/assets/e92e4bc4-15d5-48f2-938c-67c916ec6793
+
+
+
+[Watch on YouTube with English captions](https://www.youtube.com/watch?v=cZWPVme_Sp4)
 
 ## What it does
 
